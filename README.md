@@ -1,0 +1,1 @@
+this application is for developing the mobile application development skills
