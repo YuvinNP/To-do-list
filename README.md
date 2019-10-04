@@ -1,1 +1,3 @@
-this application is for developing the mobile application development skills
+# To Do List App
+
+## This is a simple todo list app you can use for set remainder for daily tasks.
